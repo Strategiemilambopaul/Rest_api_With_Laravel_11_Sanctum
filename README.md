@@ -18,9 +18,11 @@ By using Sanctum, you can ensure that your Laravel REST API is secure and that o
 
     -   Routes
     -   Controller
-    -   Query Builder
     -   Middleware
     -   Json response
+    -   Database
+        -   Query Builder
+        -   Migrations
 
 -   Api works
 -   HTTP request
@@ -36,4 +38,4 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Advice
- *`A passerby being a 1 is a 0 unconscious`*
+ 💢 *`A passerby being a 1 is a 0 unconscious`*
