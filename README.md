@@ -13,6 +13,18 @@ Laravel Sanctum is a lightweight authentication package that provides a simple w
 - *Security*: Sanctum leverages Laravel’s built-in security features, such as CSRF protection and session authentication, to provide a robust and secure authentication system.
 By using Sanctum, you can ensure that your Laravel REST API is secure and that only authorized users can access your application’s resources.
 
+# Important Skills
+-   Basic of larevel
+        - Routes
+        - Controller
+        - Query Builder
+        - Middleware
+        - Json response
+
+-   Api works
+-   Sanctum packages
+-   POO programming
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
