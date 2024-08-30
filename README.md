@@ -15,14 +15,16 @@ By using Sanctum, you can ensure that your Laravel REST API is secure and that o
 
 # Important Skills
 -   Basic of larevel
-        - Routes
-        - Controller
-        - Query Builder
-        - Middleware
-        - Json response
+
+    -   Routes
+    -   Controller
+    -   Query Builder
+    -   Middleware
+    -   Json response
 
 -   Api works
--   Sanctum packages
+-   HTTP request
+-   Sanctum package
 -   POO programming
 
 ## Learning Laravel
